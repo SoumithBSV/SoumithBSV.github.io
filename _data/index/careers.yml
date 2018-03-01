@@ -1,0 +1,129 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: PES University
+    i18n: company_a
+  desc:
+    detail: Undergraduate Degree
+    i18n: company_a_desc
+  date:
+    detail: Aug 2012 - May 2016
+    i18n: company_a_date
+  job:
+    detail: Bachelor's in Computer Science
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Microsoft
+    i18n: company_b
+  desc:
+    detail: Co-founded Microsoft Student's Club, Pesit
+    i18n: company_b_desc
+  date:
+    detail: Jan 2014 - Dec 2015
+    i18n: company_b_date
+  job:
+    detail: Microsoft Student Partner
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: ARM Holdings
+    i18n: company_c
+  desc:
+    detail: Worked in the Memory Tech division
+    i18n: company_c_desc
+  date:
+    detail: Jun 2015 - July 2015
+    i18n: company_c_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Big Data Research Center, PESIT
+    i18n: company_d
+  desc:
+    detail: Worked under Prof. Dinakar Sitaram
+    i18n: company_d_desc
+  date:
+    detail: Jan 2016 - May 2016
+    i18n: company_d_date
+  job:
+    detail: Student Intern
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: Walmartlabs
+    i18n: company_e
+  desc:
+    detail: Worked in the MarketPlace division
+    i18n: company_e_desc
+  date:
+    detail: Jan 2016 - July 2016
+    i18n: company_e_date
+  job:
+    detail: Software Engineer Intern
+    i18n: company_e_job
+  icon: fa-plus-square
+
+- name:
+    detail: Walmartlabs
+    i18n: company_f
+  desc:
+    detail: Worked in the MarketPlace division
+    i18n: company_f_desc
+  date:
+    detail: Aug 2016 - July 2017
+    i18n: company_f_date
+  job:
+    detail: Software Engineer
+    i18n: company_f_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Southern California
+    i18n: company_g
+  desc:
+    detail: Graduate Degree
+    i18n: company_g_desc
+  date:
+    detail: Aug 2017 - Present
+    i18n: company_g_date
+  job:
+    detail: Master's in Computer Science
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: FMS Network Services
+    i18n: company_h
+  desc:
+    detail: Worked in the Netowrk Services Division
+    i18n: company_h_desc
+  date:
+    detail: Sept 2017 - Oct 2017
+    i18n: company_h_date
+  job:
+    detail: Student Tech Assisntant IV
+    i18n: company_h_job
+  icon: fa-plus-square
+
+- name:
+    detail: Institute for Creative Technologies
+    i18n: company_i
+  desc:
+    detail: Worked in Learning Sciences Division under Prof. Benjamin Nye
+    i18n: company_i_desc
+  date:
+    detail: Aug. 2016
+    i18n: company_i_date
+  job:
+    detail: Student Research Programmer
+    i18n: company_i_job
+  icon: fa-plus-square

@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : CS
+aspects: Python, Java, C, C++, HTML5, CSS5, JavaScript, NodeJS, AngularJS
+percentage: 80, 80, 50, 50, 75, 75, 75, 75, 75
